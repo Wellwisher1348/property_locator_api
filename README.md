@@ -3,16 +3,8 @@
 Property Locator
 Node/Express/Mongo API with GeoJSON location field for property locations. Simple vanilla JS frontend using the Mapbox Library
 
-# Quick Start Instructions
+# Quick Start Intstructions
 Add your MONGO_URI and GEOCODER_API_KEY to the "config/config.env" file.
-
-# Install dependencies
-npm install
-
-# Serve on localhost:5000
-npm run dev (nodemon)
-or
-npm start
 
 # Install dependencies
 npm install
