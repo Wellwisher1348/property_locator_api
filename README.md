@@ -14,7 +14,16 @@ npm run dev (nodemon)
 or
 npm start
 
+# Install dependencies
+npm install
+
+# Serve on localhost:5000
+npm run dev (nodemon)
+or
+npm start
+
 # Routes
-GET    /api/v1/stores # Get property
+GET    /api/v1/stores # Get a property
+
 POST   /api/v1/stores # Add a property
 body { storeId: "0001", address: "10 main st Boston MA" }
