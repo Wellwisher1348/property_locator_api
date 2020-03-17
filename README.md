@@ -26,4 +26,5 @@ npm start
 GET    /api/v1/stores # Get a property
 
 POST   /api/v1/stores # Add a property
+
 body { storeId: "0001", address: "10 main st Boston MA" }
